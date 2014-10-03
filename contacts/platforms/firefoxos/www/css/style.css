@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* CSS Document */
+#newContactForm
+{
+	display: block;
+}
+
+.active
+{
+	display: block;
+}
+
+body 
+{
+	background-color: #ef7f11;
+	height: 100%;
+}
+
+button
+{
+	background-color: #000;
+color: #FFF;
+height: 30px;
+border-radius: 8px;
+}
+
+input
+{
+	background-color: #000;
+color: #FFF;
+border-radius: 6px;
+height: 20px;
+}
+
+li
+{
+	list-style-type: none;
+}
